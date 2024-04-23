@@ -49,7 +49,7 @@ img {
   border: 1px solid #531919;
   margin-bottom: 10px;
   border-radius: 4px;
-  background-color: #000000;
+  /* background-color: #000000; */
 }
 
 .submission-summary:hover {
